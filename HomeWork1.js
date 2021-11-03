@@ -1,4 +1,3 @@
-console.log('Soru 1')
 
 let findPrime = (...params) => {
     let state;
@@ -25,8 +24,8 @@ findPrime(2,5,8,21, 13); findPrime(3,5);
 
 
 
-console.log('');
-console.log('Soru 2')
+
+
 let friendNumbers = (number1,number2) =>{
 
     let sum;
@@ -54,8 +53,7 @@ friendNumbers(220,284);
 
 
 
-console.log('');
-console.log('Soru 3')
+
 let perfectNumbersUpTo1000 = () => {
     
     let sum;
@@ -78,8 +76,7 @@ perfectNumbersUpTo1000();
 
 
 
-console.log('');
-console.log('Soru 4')
+
 let primeNumbersUpTo1000 = () => {
     let state;
     let primeArray = [];
